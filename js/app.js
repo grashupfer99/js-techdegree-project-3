@@ -588,7 +588,7 @@ const globalController = (function (validatorCtrl, UICtrl) {
             // Initialize some custom CSS styles
             UICtrl.customCSS();
 
-            // <-- Please select a T-shirt theme
+            // Create and append elements to the DOM
             UICtrl.appendElements();
 
             // Initial presets
